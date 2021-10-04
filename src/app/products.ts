@@ -27,7 +27,7 @@ export const products = [
   {
     id: 4,
     name: 'Samsung S10+',
-    price: 499,
+    price: 999,
     description: '',
   },
 ];
